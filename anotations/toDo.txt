@@ -1,0 +1,41 @@
+1 - DEFINIR ETAPAS DO PROCESSO
+    1.1- Definir Objetivo
+        como isso consigo ter uma ideia de quanto tempo o projeto vai demorar para ser lançado.
+
+        r: O objetivo é fazer um site que divulgue o trabalho do meu professor de ingles, e também agregar ao meu portifólio. As cores utilizadas serão baseadas na bandeira do reino unido e com uma temática que retrata a cidade de londres e sua cultura. Também sera necessário fotos dele e dos alunos.
+        
+
+    1.2- Definir publico alvo
+        Estratégias de design, campanhas e marketing.
+        pa: Pessoas jovens e inteligentes
+
+
+    1.3- Orçamento e cronograma
+        o cronograma vai me ajudar a organizar meu fluxo de trabalho e monitorar meu processo. Irei me dedidicar 4x na semana para aprender e fazer o projeto dele.
+        orçamento: a definir e levar em consideração o dominio.
+
+    1.4 Definir hospedagem e nome de domínio
+        dominio: oTeacherJordan
+    
+    1.5 Deisgn e Estilo
+        - buscar inspirações (sites competidores, behance,awwwards,pinteres)
+        - ferramenta de organização de projetos como milanote para reunir referências de estilo e para finalizar a ideias de design.
+
+        ==IDEIAS==
+            -Deixar um icone de whatsapp flutuando durante a navegação(https://inglesrapidoefacil.com.br/landing-page/?gclid=CjwKCAiAibeuBhAAEiwAiXBoJC2a02U-0Ts65ycZbGEtC7HzsgSagbVDdJtTiNi1THXTMOFLDVzMOhoChFcQAvD_BwE)
+
+            - Deixar uma NavBar dinâmica, ela somente aparece quando chegar perto.(https://www.tatianaensinaingles.com.br/cidades/sorocaba/)
+
+            - aba focado apenas para "meus queridos alunos' (https://www.hildaferrari.com.br/index/?gclid=CjwKCAiAibeuBhAAEiwAiXBoJK-1wsMHvmyS8dsbD0QVWXfEwNxJUzdUUFdwJ_Y2V2mPTk3FaXvPgxoC16sQAvD_BwE)
+
+
+2- Criar um wireFrame
+    modelo bidimensiona que projeta o layout, navegação e o psicinamento dos elementos.
+
+3- Estabeleceruma Hierarquia visual
+    Estrategia de posicionamento de elementos no site. O objetivo é chamar atenção dos pontos mais importantes, utilizando cores vivas e claras nesses pontos e tamanho maior.
+
+
+
+
+
