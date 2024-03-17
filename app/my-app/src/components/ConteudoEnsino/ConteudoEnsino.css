@@ -1,0 +1,16 @@
+.ensino-background{
+    width: 100%;
+    background-image: url(./img-metodloiga.jpg);
+    background-size: cover;
+    background-position: 380px
+}
+
+.ensino-cont{
+    background-color: #D1D1D1;
+    width: 950px;
+    height: 100%;
+    margin: 10px 10px 10px 10px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 200px rgba(209, 209, 209, 1);
+    padding-left: 10px;
+}
