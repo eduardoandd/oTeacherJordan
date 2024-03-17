@@ -8,12 +8,12 @@
 }
 
 .bio-cont {
-    background-color: white;
+    background-color: #D1D1D1;
     width: 950px;
     height: 500px;
     border-radius: 15px;
     margin-right: 250px;    
-    box-shadow: 2px 2px 200px rgba(241, 241, 241, 1);
+    box-shadow: 2px 2px 200px rgba(209, 209, 209, 1);
 
 }
 .text-content{

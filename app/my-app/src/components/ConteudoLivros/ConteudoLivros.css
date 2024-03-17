@@ -1,0 +1,22 @@
+.livro-background{
+    width: 100%;
+    background-image: url(./biografia-mg.jpg);
+    background-size: cover;
+}
+
+.livro-cont{
+    background-color: #D1D1D1;
+    width: 95%;
+    height: 95%;
+    margin: 10px 10px 10px 10px;
+}
+
+.livro-img{
+    height: 700px;
+    margin: 20px 30px 0px 10px
+}
+.livro-text{
+    text-align: center;
+    font-size: 30px;
+    margin: 30px 10px 10px 10px
+}

@@ -1,7 +1,7 @@
 import { Box, Center, Flex,Text } from "@chakra-ui/react"
 import './ConteudoBio.css'
 import teacher1 from './teacher.png'
-import { Z_BEST_COMPRESSION } from "zlib"
+
 
 export const ConteudoBio = () =>{
     return(
