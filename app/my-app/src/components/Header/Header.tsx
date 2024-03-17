@@ -14,10 +14,14 @@ export const Header = () =>{
             >
                 <img src={logo} className="img-logo" alt="logo"  />
                 <Box marginTop={5} color='white' paddingLeft={25}>
-                    <Text fontSize='xl'>Biografia</Text>
-                    <Text fontSize='xl'>Livros</Text>
-                    <Text fontSize='xl'>Ensino</Text>
-                    <Text fontSize='xl'>Horario de atendimento</Text>
+                    <Stack spacing={5}>
+                        <Text fontSize='2xl'>Biografia</Text>
+                        <Text fontSize='2xl'>Meu compromisso</Text>
+                        <Text fontSize='2xl'>Livros</Text>
+                        <Text fontSize='2xl'>Ensino</Text>
+                        <Text fontSize='2xl'>Horario de atendimento</Text>
+                    </Stack>
+                    
                 </Box>
             </VStack>
         </Box>
